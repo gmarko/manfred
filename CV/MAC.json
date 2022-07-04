@@ -1,0 +1,122 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Marco Duran",
+      "surnames": "Cabobianco",
+      "title": "Blockchain developer",
+      "description": "Im a rare developer, my skills is about new products and manager projects. Im focus in Product developer.",
+      "avatar": {
+        "alt": "marcofoto.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/64c88582-876e-49b9-92e0-2afdd8ddbcbf_marcofoto.jpg"
+      },
+      "location": {
+        "notes": "Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/marco-dur%C3%A1n-cabobianco-0b34352a/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Domotic, music and meet with people.",
+        "fact": "I want to live with time to me. "
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Galician"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solidity",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/marco-dur%C3%A1n-cabobianco-0b34352a/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Solidity",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Figma",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
