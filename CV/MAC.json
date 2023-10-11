@@ -171,6 +171,17 @@
           "description": "Técnico Informático"
         },
         "finishDate": "2018-04-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "DAW Desarrollo de aplicaciones Web.",
+        "startDate": "2017-09-01",
+        "institution": {
+          "name": "Universae",
+          "description": "Grado Técnico superior Informatica."
+        },
+        "finishDate": "2018-05-01"
       }
     ]
   },
