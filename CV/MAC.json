@@ -6,24 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Marco Duran",
-      "surnames": "Cabobianco",
-      "title": "Blockchain developer",
-      "description": "Im a rare developer, my skills is about new products and manager projects. Im focus in Product developer.",
+      "name": "Marco",
+      "surnames": "Durán Cabobianco",
+      "title": "Desarrollador Sistemas expertos LLM AI",
+      "description": "Like trees, we need to grow. We are largely dependent on the environment in which we were raised, but this does not prevent us from overcoming our obstacles, our limitations, step by step. Understanding the times we live in includes understanding the power we have, which takes responsibility for creating our own circumstances. Our thoughts and motivations should be what moves us, and should be made public, as a way of claiming our space and time. It's us, it's now, no excuses, no regrets, history will judge us, now is the time to act, time to create, time to change the world together. Let's just be who we are and that's all.",
       "avatar": {
-        "alt": "marcofoto.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/64c88582-876e-49b9-92e0-2afdd8ddbcbf_marcofoto.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/04/64c88582-876e-49b9-92e0-2afdd8ddbcbf_marcofoto.jpg",
+        "alt": "marcofoto.jpg"
       },
       "location": {
-        "notes": "Spain"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/marco-dur%C3%A1n-cabobianco-0b34352a/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Domotic, music and meet with people.",
@@ -31,31 +26,112 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "OpenAI"
+        },
+        "roles": [
+          {
+            "name": "Coordinador de desarrollo de proyectos",
+            "startDate": "2023-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Aurinext"
+        },
+        "roles": [
+          {
+            "name": "Cofundador",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-12-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SIVSA"
+        },
+        "roles": [
+          {
+            "name": "Gestor de proyectos blockchain",
+            "startDate": "2021-10-01",
+            "finishDate": "2022-04-30",
+            "challenges": [
+              {
+                "description": "Departamento de I+D para productos blockchain."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fabspace Cooperativa"
+        },
+        "roles": [
+          {
+            "name": "Coordinador de proyectos software",
+            "startDate": "2017-04-01",
+            "finishDate": "2022-04-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Makerversity"
+        },
+        "roles": [
+          {
+            "name": "Desarrollo web",
+            "startDate": "2015-07-01",
+            "finishDate": "2017-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Teixuapps"
+        },
+        "roles": [
+          {
+            "name": "Director de proyecto",
+            "startDate": "2012-01-01",
+            "finishDate": "2014-07-31",
+            "challenges": [
+              {
+                "description": "Skills: Desarrollo de software"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "GL",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -73,6 +149,12 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Solidity",
           "type": "technology"
         }
@@ -83,8 +165,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/marco-dur%C3%A1n-cabobianco-0b34352a/"
+          "URL": "https://www.linkedin.com/in/marco-dur%C3%A1n-cabobianco-0b34352a/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "electrohipy@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "672230545",
+          "countryCode": "+34"
         }
       ]
     },
@@ -116,7 +207,17 @@
           "name": "NextJS",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Business Operations & Strategy",
+        "Full-stack Developer",
+        "Product Manager"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "For me, i wish an a company with a goal focus in the tecnologies to do the world better.",
+    "goodPractices": "Testing everywhere."
   }
 }
